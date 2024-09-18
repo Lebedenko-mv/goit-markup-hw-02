@@ -101,7 +101,7 @@ body{
 }
 
 .hero-section-button:hover, .hero-section-button:focus{
-    color: #404bbf;
+    background-color: #404bbf;
 }
 
 .Benefits-section h3{
