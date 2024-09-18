@@ -20,7 +20,6 @@ body{
 
 
 /* header-styles */
-
 .main-logo{
     font-weight: 700;
     font-size: 18px;
@@ -28,13 +27,14 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-
-
-    font-family: "Raleway", sans-serif;
 }
 
-.web-color{
-    color: #4d5ae5;
+.main-logo:hover ,.main-logo:focus{
+    color: #404bbf;
+}
+
+.main-logo-studio{
+    color: #2e2f42;
 }
 
 .menu-item{
@@ -46,10 +46,12 @@ body{
 }
 
 
-
+.contacts{
+    font-style: normal;
+}
 .contact-item{
     font-family: "Roboto", sans-serif;
-    font-style: normal;
+    
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
