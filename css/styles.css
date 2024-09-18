@@ -27,16 +27,18 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-}
+    font-family: "Raleway", sans-serif;
 
-.main-logo:hover ,.main-logo:focus{
-    color: #404bbf;
 }
 
 .main-logo-studio{
     color: #2e2f42;
 }
 
+.menu-item-studio:hover,
+.menu-item-studio:focus{
+    color:#404bbf ;
+}
 .menu-item{
     font-weight: 500;
     font-size: 16px;
