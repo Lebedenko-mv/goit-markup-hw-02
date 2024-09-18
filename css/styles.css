@@ -42,7 +42,10 @@ body{
 
 .menu-item-studio:hover,
 .menu-item-studio:focus{
-    color:#404bbf ;
+    color:#4d5ae5 ;
+}
+.test:hover{
+    background-color: green;
 }
 .menu{
     font-weight: 500;
