@@ -63,8 +63,8 @@ body{
 
 .hero-section{
     background: #2e2f42;
-    width: 1440px;
-    height: 600px;
+    /* width: 1440px;
+    height: 600px; */
 }
 
 
@@ -82,8 +82,8 @@ body{
 
 
 .hero-section-button {
-    width: 169px;
-    height: 56px;
+    /* width: 169px;
+    height: 56px; */
     background: #4d5ae5;
 }
 
@@ -119,8 +119,8 @@ body{
 
 .our-team-section-item{
     background-color: #fff;
-    width: 264px;
-    height: 380px;
+    /* width: 264px;
+    height: 380px; */
 }
 
 
@@ -133,8 +133,8 @@ body{
 
 
 .footer-section{
-    width: 1440px;
-    height: 312px;
+    /* width: 1440px;
+    height: 312px; */
     background: #2e2f42;
 }
 
