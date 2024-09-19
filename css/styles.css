@@ -27,13 +27,6 @@ body{
 
 }
 
-.main-logo-studio{
-    color: #2e2f42;
-}
-
-.menu li:hover{
-    color: #404bbf;
-}
 .menu-item-studio{
     font-weight: 500;
     font-size: 16px;
@@ -70,6 +63,10 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.contact-item-a:hover, .contact-item-a:focus{
+    color: #404bbf;
 }
 
 /* end header */
