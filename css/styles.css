@@ -127,7 +127,6 @@ body{
 .our-team-section{
     font-size: 36px;
     line-height: 1.11;
-    text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
@@ -184,7 +183,7 @@ body{
     letter-spacing: 0.02em;
 }
 
-
+/* footer                                                 */
 
 
 
@@ -196,11 +195,22 @@ body{
 .footer-section{
     background: #2e2f42;
 }
-
-.footer-logo{
-    color: #fff;
+.main-logo-footer{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
 }
-.footer-section p{
+
+.main-logo-studio-footer{
+    color: #f4f4fd;
+}
+
+
+.footer-section-p{
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
