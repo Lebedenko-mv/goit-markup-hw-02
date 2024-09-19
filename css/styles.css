@@ -26,6 +26,9 @@ body{
     font-family: "Raleway", sans-serif;
 
 }
+.main-logo-studio{
+    color: #2e2f42;
+}
 
 .menu-item-studio{
     font-weight: 500;
@@ -135,6 +138,8 @@ body{
 
 .our-team-section-item{
     background-color: #fff;
+    width: 264px;
+    height: 380px;
 }
 
 .our-team-section-p{
